@@ -1,30 +1,16 @@
 {
-  "name": "template-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/template-sample",
-  "version": "0.0.3",
-  "minAppVersion": "2.9.0",
+  "name": "FireWatcher",
+  "author": "artuir",
+  "url": "https://github.com/artuir/FireWatcher",
+  "version": "1.0.0",
+  "minAppVersion": "3.1.29",
   "displayName": {
-    "default": "Template Sample",
-    "zh_CN": "模板示例"
+    "default": "FireWatcher"
   },
   "description": {
-    "default": "This is a template sample",
-    "zh_CN": "这是一个模板示例"
+    "default": "This is a template sample"
   },
   "readme": {
-    "default": "README.md",
-    "zh_CN": "README_zh_CN.md"
-  },
-  "funding": {
-    "openCollective": "",
-    "patreon": "",
-    "github": "",
-    "custom": [
-      "https://ld246.com/sponsor"
-    ]
-  },
-  "keywords": [
-    "sample", "示例"
-  ]
+    "default": "README.md"
+  }
 }
